@@ -74,7 +74,7 @@ function Home({
               </div>
             </div>
             <p className="homepage__text  homepage__text--publicGoodText">
-              All Ether from sales goes to public goods!!
+              All Ether from sales goes to funds BuidlGuidl builders!!
             </p>
           </div>
         </div>

@@ -1,8 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
-import { Button, Card, List, Spin } from "antd";
-import { Address, AddressInput } from "../components";
-import { ethers } from "ethers";
+import { List } from "antd";
 
 import "./YourLoogies.css";
 import LoogieCard from "../components/LoogieCard";
